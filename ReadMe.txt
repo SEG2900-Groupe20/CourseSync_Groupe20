@@ -1,4 +1,4 @@
-I- Nom de l'Equipe :  Groupe 20 SEG2900
+I- Nom de l'Equipe : WellStudyGroup
 
 II- Noms et numéro des membres :
 - Nathan Taka Tsaga - 300466684
