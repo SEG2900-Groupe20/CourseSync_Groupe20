@@ -1,4 +1,4 @@
-I- Nom de l'Equipe : WellStudyGroup
+I- Nom de l'Equipe : Aurora
 
 II- Noms et numéro des membres :
 - Nathan Taka Tsaga - 300466684
