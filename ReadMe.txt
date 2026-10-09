@@ -1,1 +1,11 @@
-I- Nom de lÕEquipe :  Groupe 20 SEG2900II- Noms et numros des membres :- Nathan Taka Tsaga - 300466684- Elie-Samuel Roland - 300554255- Axel Etoundi Essimi - 300559619- Huang Junhao - 300545934- Francky Donald Wandji Noussong - III- Nom du produit et descriptionÊ:     CourseSync est une application web qui aide les tudiants ˆ transformer leurs plans de cours (au format PDF, Word ou mme sous forme de simple photo) en un calendrier universitaire personnalis. La plateforme extrait automatiquement les dates d'examen, les chances des devoirs et les coefficients de notation, ce qui limine la saisie manuelle des emplois du temps, rduit le stress li aux dlais et garantit que les tudiants ne manquent aucune chance universitaire.
+I- Nom de lï¿½Equipe :  Groupe 20 SEG2900
+
+II- Noms et numï¿½ros des membres :
+- Nathan Taka Tsaga - 300466684
+- Elie-Samuel Roland - 300554255
+- Axel Etoundi Essimi - 300559619
+- Huang Junhao - 300545934
+- Francky Donald Wandji Noussong - 300538560
+
+III- Nom du produit et descriptionï¿½:
+     CourseSync est une application web qui aide les ï¿½tudiants ï¿½ transformer leurs plans de cours (au format PDF, Word ou mï¿½me sous forme de simple photo) en un calendrier universitaire personnalisï¿½. La plateforme extrait automatiquement les dates d'examen, les ï¿½chï¿½ances des devoirs et les coefficients de notation, ce qui ï¿½limine la saisie manuelle des emplois du temps, rï¿½duit le stress liï¿½ aux dï¿½lais et garantit que les ï¿½tudiants ne manquent aucune ï¿½chï¿½ance universitaire.
